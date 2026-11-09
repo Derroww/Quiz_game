@@ -1,0 +1,37 @@
+{
+    "1": {
+        "name": "Python Programming",
+        "questions": [
+            {
+                "question": "Which keyword is used to define a function in Python?",
+                "choices": ["A) func", "B) define", "C) def", "D) function"],
+                "correct": "C"
+            },
+            {
+                "question": "Which of the following data types is mutable in Python?",
+                "choices": ["A) Tuple", "B) List", "C) String", "D) Integer"],
+                "correct": "B"
+            },
+            {
+                "question": "What is the output of type(10) in Python?",
+                "choices": ["A) <class 'float'>", "B) <class 'int'>", "C) <class 'number'>", "D) <class 'str'>"],
+                "correct": "B"
+            }
+        ]
+    },
+    "2": {
+        "name": "General Knowledge",
+        "questions": [
+            {
+                "question": "What is the capital city of Australia?",
+                "choices": ["A) Sydney", "B) Melbourne", "C) Canberra", "D) Perth"],
+                "correct": "C"
+            },
+            {
+                "question": "Which planet is known as the Red Planet?",
+                "choices": ["A) Venus", "B) Mars", "C) Jupiter", "D) Saturn"],
+                "correct": "B"
+            }
+        ]
+    }
+}
